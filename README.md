@@ -4,7 +4,7 @@
 
 # Contexto
 Back-end usando ORM com o pacote sequelize do npm em que são criadas tabelas usando models do sequelize.
-   API de um CRUD posts de blog (com o Sequelize) com alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados.
+   API de posts de blog (com o Sequelize) com alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados.
 
 
 ## Tecnologias usadas
