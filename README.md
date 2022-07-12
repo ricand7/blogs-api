@@ -7,7 +7,7 @@ Back-end usando ORM com o pacote sequelize do npm em que são criadas tabelas us
    API de um CRUD posts de blog (com o Sequelize) com alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados.
 
 
-## Técnologias usadas
+## Tecnologias usadas
 
 Back-end:
 >  Node Js e Sequelize com banco de dados Mysql usando também o recurso de geração de token(JWT) para autenticacao e permissão de acesso aos endpoints 
