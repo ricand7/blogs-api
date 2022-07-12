@@ -25,7 +25,7 @@ npm install
 ## Conexão com o Banco
 
 *  Crie a variavel de acesso ao banco 
-    Crie um arquivo dot.env na raiz do projeto e preencha as seguintes informações 
+    Abra o arquivo dot.env na raiz do projeto e preencha as seguintes informações 
     
     MYSQL_USER=seuusuario
     MYSQL_PASSWORD=suasenha
