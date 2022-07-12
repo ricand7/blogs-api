@@ -25,13 +25,13 @@ npm install
 ## Conexão com o Banco
 
 *  Crie a variavel de acesso ao banco<br>
-    Abra o arquivo dot.env na raiz do projeto e preencha as seguintes informações 
+    Abra o arquivo dot.env na raiz do projeto e preencha as seguintes informações<br>
     
-    MYSQL_USER=seuusuario
-    MYSQL_PASSWORD=suasenha
-    HOSTNAME=127.0.0.1
-    JWT_SECRET=suasenhasecreta
-    DATABASE=blogs_api
+    MYSQL_USER=seuusuario<br>
+    MYSQL_PASSWORD=suasenha<br>
+    HOSTNAME=127.0.0.1<br>
+    JWT_SECRET=suasenhasecreta<br>
+    DATABASE=blogs_api<br>
     
     
 ## Executando aplicação
