@@ -44,7 +44,7 @@ npm install
 
 ## Testando as requisições
 
->  Requisicao para Criar usuario , tipo Post http://localhost:3000/user
+>  Requisição para Criar usuario , tipo Post http://localhost:3000/user
       Exemplo de Json enviado no Body:
       
   ``` 
@@ -55,7 +55,7 @@ npm install
         "image": "http://4.bp.blogspot.com/_YA50adQ-7vQ/S1gfR_6ufpI/AAAAAAAAAAk/1ErJGgRWZDg/S45/brett.png"
     }
   ```
-> Requisicao para login do usuario , tipo Post http://localhost:3000/login
+> Requisição para login do usuario , tipo Post http://localhost:3000/login
       Exemplo de Json enviado no Body:
      
   ```  
@@ -67,20 +67,20 @@ npm install
   ``` 
    
   
-> Requisicao para acessar a  lista de usuarios, tipo Get http://localhost:3000/user
+> Requisição para acessar a  lista de usuarios, tipo Get http://localhost:3000/user
       O token deve ser enviado no Header no campo Authorization(recebido no login)  
 
 
-> Requisicao para acessar um usuario, tipo Get http://localhost:3000/user/iddousuario
+> Requisição para acessar um usuario, tipo Get http://localhost:3000/user/iddousuario
       O token deve ser enviado no Header no campo Authorization(recebido no login)
       
 
-> Requisicao para acessar as categorias tipo Get http://localhost:3000/categories
+> Requisição para acessar as categorias tipo Get http://localhost:3000/categories
       O token deve ser enviado no Header no campo Authorization(recebido no login) 
 
      
 
-> Requisicao para criar uma Postagem  tipo Post http://localhost:3000/post
+> Requisição para criar uma Postagem  tipo Post http://localhost:3000/post
        O token deve ser enviado no Header no campo Authorization(recebido no login)        
        Exemplo de Json que deve ser enviado no Body:
        
@@ -92,7 +92,7 @@ npm install
        }
    ``` 
      
-> Requisicao para criar uma categoria tipo Post http://localhost:3000/categories
+> Requisição para criar uma categoria tipo Post http://localhost:3000/categories
       O token deve ser enviado no Header no campo Authorization(recebido no login)
       Exemplo de Json que deve ser enviado no Body:
    ```   
@@ -101,7 +101,7 @@ npm install
       }
    ```     
      
-> Requisicao para acessar as Postagems tipo Get http://localhost:3000/post
+> Requisição para acessar as Postagems tipo Get http://localhost:3000/post
        O token deve ser enviado no Header no campo Authorization(recebido no login)
    ```      
        {
